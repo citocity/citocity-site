@@ -13,6 +13,5 @@
 - آموزش‌های کاربردی برای کاربران و علاقه‌مندان به تکنولوژی  
 
 ## تماس و شبکه‌های اجتماعی
-- توییتر: [@CitoCity](https://twitter.com/citocity)  
-- لینکدین: [CitoCity](https://www.linkedin.com/in/citocity)  
-- اینستاگرام: [CitoCity](https://instagram.com/citocity)
+- اینستاگرام: [CitoCity](https://www.instagram.com/cito.city/)
+- فیسبوک: [CitoCity](https://www.facebook.com/citocity/)
